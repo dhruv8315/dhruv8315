@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **C# WPF**
 
-- 🌱 I’m currently learning **.NET framework and React**
+- 🌱 I’m currently learning **ASP.NET and React**
 
 - 📫 How to reach me **dhruv1947patel@gmail.com**
 
