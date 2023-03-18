@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET framework and React**
 
-- 📫 How to reach me **dhruv1947patel@gmail.com**
+- 📫 How to reach me **dhruv6.patel@torontomu.ca**
 
 - ⚡ Fun fact **I use ; over tabs XD**
 
